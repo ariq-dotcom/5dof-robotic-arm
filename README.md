@@ -3,10 +3,10 @@
 Repository ini berisi file-file pengembangan robot arm 5-DOF berbasis Arduino, yang mencakup desain mekanikal dan assembly, desain elektrikal dan PCB, perhitungan serta visualisasi menggunakan Python, program kendali servo, dan dokumentasi pengembangan.
 
 <p align="center">
-  <img src="Dokumentasi/4.jpeg" width="400">
+  <img src="Dokumentasi/4.jpeg" width="500">
 </p>
 
-## Komponen Proyek
+## File-File
 ### Mekanikal
 
 Perancangan dan assembly mekanis robot arm, termasuk model CAD dan dokumentasi desain.
