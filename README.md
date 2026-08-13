@@ -2,6 +2,7 @@
 
 Repository ini berisi file-file hasil Project Based Learning (PBL) pada mata kuliah Otomasi Industri, berupa pengembangan robot arm 5-DOF berbasis Arduino. Project ini mencakup desain assembly mekanikal, desain PCB, perhitungan serta visualisasi menggunakan Python, program kendali servo, dan beberapa dokumentasi pengembangan.
 
+
 <p align="center">
   <img src="Dokumentasi/4.jpeg" width="500">
 </p>
