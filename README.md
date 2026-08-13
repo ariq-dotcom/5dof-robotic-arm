@@ -10,7 +10,7 @@ Repository ini berisi file-file hasil Project Based Learning (PBL) pada mata kul
 ## File-File
 ### Mekanikal
 
-Perancangan dan assembly mekanis robot arm, termasuk model CAD dan dokumentasi desain.
+desain assembly mekanikal robot arm
 
 ### Elektrikal
 
